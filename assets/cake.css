@@ -172,7 +172,7 @@
 /* ============================================== Frosting
 */
 .cobertura {
-  background: #ece7e3;
+  background: #aeecad;
   border-radius: 150px;
   position: absolute;
   top: 60%;
@@ -185,7 +185,7 @@
 }
 .cobertura:after,
 .cobertura:before {
-  background: #ece7e3;
+  background: #8eeca1;
   border-radius: 300px;
   content: "";
   position: absolute;
